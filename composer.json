@@ -1,0 +1,6 @@
+{
+	"require": {
+		"lsolesen/php-template": "dev-master",
+		"sunra/php-simple-html-dom-parser": "dev-master"
+	}
+}
